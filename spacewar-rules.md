@@ -410,3 +410,4 @@
 407. Se uma Bang vier em sua direção, vire-se.
 408. Se um alienígena oferecer sorvete de lava, aceite e ganhe +50 de XP em acrobacias espaciais.
 409. Se voce vira imortal perde as memorias a cada hora.
+410. Deixe crescer pelo menos 3 pernas. Sem necessidade, apenas para entreter os espectadores.
