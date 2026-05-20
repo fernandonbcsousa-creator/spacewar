@@ -417,3 +417,4 @@
 414. Se for no centro de Carpina, coloque perfume.
 415. Se for sair para balada, escute Madonna.
 416. Se voce se perder, escute enhypen pra achar o caminho.
+417. Se quiser fazer amigos jogue minecraft.
