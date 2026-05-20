@@ -415,3 +415,4 @@
 412. Se voce ver fogo deve fazer no hit em um boss aleatorio de elden ring.
 413. Se levar uma flecha no joelho, nao podera se aventurar.
 414. Se for no centro de Carpina, coloque perfume.
+415. Se for sair para balada, escute Madonna.
