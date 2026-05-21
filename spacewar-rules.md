@@ -422,3 +422,4 @@
 419. Se quiser aprender programacao, fale com jamerson.
 420. Se voce quer sorir e co patate se qr bruincar e com patata.
 421. Se Chegar Carnaval,tocaram anitta automaticamente no campo de batalha.
+422. Se pular solte um objeto aleatorio e ganhe um ponto de força e velocidade, se cair pedra azul do eveferest.
